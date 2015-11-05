@@ -73,7 +73,6 @@
         <option name="FOREGROUND" value="678cb1" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
         <option name="FOREGROUND" value="5394ec" />
